@@ -1,0 +1,6 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Workspace_F.Mech/Workspace_F.Mech/bin/Debug/net8.0-windows
+/Workspace_F.Mech/Workspace_F.Mech/obj
